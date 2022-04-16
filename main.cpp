@@ -163,10 +163,11 @@ do
 //system("clear"); //clear the screen of previous content
 s.showScoreboard ();   //show the current scoreboard data
 //menu choices
-cout << "A = Update Team Names" << endl;
-cout << "B = Update Scores" << endl;
-cout << "C = Update Coach names" << endl;
-cout << "D = Update City names" << endl;
+cout << "A = Update Home Names" << endl;
+cout << "B = Update Visitor Names" << endl; 
+cout << "C = Update Scores" << endl;
+cout << "D = Update Coach names" << endl;
+cout << "F = Update City names" << endl;
 cout << "T = Update time out"<<endl;
 cout << "E = Exit" << endl;
 cout << ">";
